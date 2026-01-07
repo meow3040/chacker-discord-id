@@ -74,7 +74,7 @@ A powerful Java application to fetch and analyze Discord user information using 
 
 ### 1. Clone or Download the Project
 ```bash
-git clone <repository-url>
+git clone https://github.com/meow3040/chacker-discord-id
 cd untitled
 ```
 
